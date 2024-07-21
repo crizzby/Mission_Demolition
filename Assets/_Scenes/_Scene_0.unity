@@ -900,6 +900,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3426926563094875255, guid: 52c370d4e9891984f9cf53eb98540084, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 8042702580801773605, guid: 52c370d4e9891984f9cf53eb98540084, type: 3}
       propertyPath: m_Name
       value: Castle
